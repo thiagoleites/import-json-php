@@ -1,8 +1,0 @@
-2 - Desenvolvimento Tela Importação
-
-- Crie uma tela para que o arquivo anexado com dados clientes.json seja importado
-- Exibir abaixo da opção de importação uma lista dos dados importados
-- Registros repetidos não devem ser inseridos (email é único)
-- Na listagem criar opções editar e excluir
-- Editar deve abrir modal com campos importados para editar (salvar dados e atualizar listagem via ajax)
-- Excluir deve solicitar confirmação

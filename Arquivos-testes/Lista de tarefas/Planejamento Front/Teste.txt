@@ -1,6 +1,0 @@
-1 - Planejamento de Front-End
-
-- Utilize a ferramenta de imagem de sua preferência para demarcar áreas que você criaria estruturas HTML5
-- Ex: Sections, Articles, Titles, e o que mais você considerar essencial para uma boa Semântica HTML5 
-- Delimite e comente as áreas na imagem em anexo
-- Desenvolva o HTML da tela do arquivo Exemplo em anexo com: HTML5 e Bootstrap
