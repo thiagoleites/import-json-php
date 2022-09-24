@@ -79,7 +79,7 @@
     <footer>
       <div class="container my-5 border-top">
           <div class="col-12 text-center p-3">
-            <p class="lead text-muted">&copy; 2022 - Teste técnico Envolve</p>
+            <p class="lead text-muted">&copy; 2022 - Importando dados com JSON</p>
           </div>
       </div>
     </footer>
